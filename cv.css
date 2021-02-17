@@ -1,0 +1,8 @@
+
+.main{display: flex; justify-content: justify-content: space-around}
+.left{ padding: 30px; background:#2F4F4F; color: white; float: left; width: 20%; justify-content: space-around}
+.right{ padding: 30px; background: white; float: left; width: 50%; }
+.summary{ padding-top: 30px}
+.contact{ padding-top: 300px}
+.mail{ padding-top: 10px}
+.linkedin{ padding-top: 10px}
